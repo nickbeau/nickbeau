@@ -7,6 +7,6 @@ My team develop the coolest applications, so feel free to reach out:
 - twitter: [@nickbeau](https://twitter.com/nickbeau)
 - LinkedIn: [nickbeaugeard](https://linkedin.com/in/nickbeaugeard)
 
-![Nick's Github Stats](https://github-readme-stats.vercel.app/api?username=nickbeau)
+![Nick's Github Stats](https://github-stats-alpha.vercel.app/api?username=nickbeau)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbeau&exclude_repo=github-readme-stats)](https://github.com/nickbeau/github-readme-stats)
